@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-**jcrawfo4/jcrawfo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jcrawfo4/jcrawfo4** is a ✨ _special_ ✨ 
 
 
-🔭 I’m currently working on my third year of graduate school.
 - 🌱 I’m currently practicing React 
 - 👯 I’m looking to collaborate on image analysis 
 - 🤔 I’m looking for help with panda and numpy
