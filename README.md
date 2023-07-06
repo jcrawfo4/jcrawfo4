@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**jcrawfo4/jcrawfo4** is a ✨ _special_ ✨ 
+**jcrawfo4/jcrawfo4**
 
 
 - 🌱 I’m currently practicing machine learning with Pandas and Numpy 
